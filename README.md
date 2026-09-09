@@ -2,7 +2,8 @@
 Sou recém-formado no Ensino Médio e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Desde os 16 anos, tenho contato com tecnologia, desenvolvendo conhecimentos em informática, programação e análise de sistemas, com foco em aprendizado contínuo e crescimento na área de tecnologia.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,oracle,notion" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,notion" />
+  <img src="./sql.png" width="48" height="48" alt="SQL" />
 </p>
 
 <p align="center">
@@ -10,7 +11,6 @@ Sou recém-formado no Ensino Médio e atualmente curso Análise e Desenvolviment
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 <!--<img width="611" height="48" alt="image" src="https://github.com/user-attachments/assets/53bc88ef-583a-4bcc-80d7-27bdc26fae1e" />
 
 **efaell/efaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
