@@ -3,7 +3,7 @@ Sou recém-formado no Ensino Médio e atualmente curso Análise e Desenvolviment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,notion" />
-  <img src="./sql.png" width="48" height="48" alt="SQL" />
+  <img src="./plsql.png" width="48" height="48" alt="PL/SQL" />
 </p>
 
 <p align="center">
@@ -12,19 +12,3 @@ Sou recém-formado no Ensino Médio e atualmente curso Análise e Desenvolviment
   </a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,notion" />
-  <img src="./sql.png" width="48" height="48" alt="SQL" />
-  <img src="./plsql.png" width="48" height="48" alt="PL/SQL" />
-</p>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
